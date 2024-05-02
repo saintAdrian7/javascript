@@ -50,6 +50,15 @@ button {
 #save-btn {
   background: darkslateblue;
 }
+
+#reset-btn {
+  background: rebeccapurple;
+}
+
+#decrement-btn {
+  background: darkred;
+}
+
 p{
   color: black;
   font-size: 2rem;
